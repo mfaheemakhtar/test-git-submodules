@@ -1,0 +1,3 @@
+[submodule "module-alias"]
+	path = module-alias
+	url = https://github.com/mfaheemakhtar/module-alias
